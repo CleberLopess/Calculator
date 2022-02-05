@@ -31,8 +31,8 @@ YARN IOS
 	🚧  Finalizado  🚧
 </h4>
 
-<img src='src/img/eu.png'/>
+<img src='src/img/eu.png'/><br/>
 <a href='https://github.com/CleberLopess'>Cleber Lopes</a>
 Feito com ❤️ por Cleber Lopes 👋🏽 Entre em contato!
 
-<img src="https://img.shields.io/static/v1?message=LinkeDin&color=#0a66c2&logo=src/img/linkedin.svg"/>
+<img src="https://img.shields.io/static/v1?label=&message=LinkeDin&color=#0a66c2&logo=src/img/linkedin.svg"/>
