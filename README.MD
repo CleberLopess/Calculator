@@ -6,8 +6,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React-Native](https://reactnative.dev/)
+- [React-Native](https://reactnative.dev)
 - [Android-Estudio](https://developer.android.com/studio)
+- [VSCode](https://code.visualstudio.com)
 
 ### 🎲 Rodando o Back End (servidor)
 
@@ -35,4 +36,4 @@ YARN IOS
 <a href='https://github.com/CleberLopess'>Cleber Lopes</a>
 Feito com ❤️ por Cleber Lopes 👋🏽 Entre em contato!
 
-<img src="https://img.shields.io/static/v1?label=&message=LinkeDin&color=#0a66c2&logo=src/img/linkedin.svg"/>
+- [Linkedin](https://www.linkedin.com/in/cleber-lopes-a72241151/)
